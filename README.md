@@ -64,21 +64,11 @@ Use ClientProof only on websites you own or have explicit permission to assess.
 
 ClientProof is a website readiness assessment tool, not a guarantee of security and not a replacement for a professional penetration test, comprehensive security audit, or qualified security review. Results depend on the checks implemented and the website being assessed.
 
-## 💙 Support the Project
-
-If you find ClientProof useful, you can support its continued development.
-
-- **Buy ClientProof:** [INSERT PURCHASE LINK]
-- **Support / Donate:** [INSERT DONATION LINK, IF AVAILABLE]
-- **Share the project:** Share this repository with website owners, developers, and freelancers who may find it useful.
-
-Your support helps fund maintenance, improvements, documentation, and future releases.
-
 ## 📬 Contact
 
 For product questions, purchase inquiries, or support:
 
-**Contact:** [YOUR EMAIL OR BUSINESS CONTACT]
+**Contact:** [jaffeissa640@gmail.com]
 
 ## ⚖️ License
 
